@@ -7,7 +7,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
-public class MainActivity extends AppCompatActivity {
+
+import com.example.modulbmi.R;
+
+public class MainActiviity extends AppCompatActivity {
     Button btncek, btnexit, btnclear;
     EditText editnama, edittinggi, editberat, hasilideal, hasilket1, hasilket2;
     RadioButton rdblaki, rdbperempuan;
